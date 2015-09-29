@@ -4,7 +4,7 @@
 #
 Name     : rubygem-tidy-ext
 Version  : 0.1.14
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/tidy-ext-0.1.14.gem
 Source0  : https://rubygems.org/downloads/tidy-ext-0.1.14.gem
 Summary  : No detailed summary available
