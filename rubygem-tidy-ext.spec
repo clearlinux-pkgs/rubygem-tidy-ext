@@ -4,17 +4,18 @@
 #
 Name     : rubygem-tidy-ext
 Version  : 0.1.14
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/tidy-ext-0.1.14.gem
 Source0  : https://rubygems.org/downloads/tidy-ext-0.1.14.gem
 Summary  : No detailed summary available
 Group    : Development/Tools
-License  : w3c
+License  : W3C
 Requires: rubygem-tidy-ext-lib
 BuildRequires : ruby
 BuildRequires : rubygem-chronic_duration
 BuildRequires : rubygem-devise
 BuildRequires : rubygem-diff-lcs
+BuildRequires : rubygem-numerizer
 BuildRequires : rubygem-rdoc
 BuildRequires : rubygem-rspec
 BuildRequires : rubygem-rspec-core
